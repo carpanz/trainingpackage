@@ -9,7 +9,7 @@
 #' \describe{
 #'  \item{variable}(IL6)
 #'  \item{description}(mesurements of IL6 levels)
-#'}
+#' }
 #'
 #'
 #' @source data generated with the simstudy package
