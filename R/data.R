@@ -7,8 +7,8 @@
 #' @format ## `example_dataset`
 #' A tibblwe with 33 columns:
 #' \describe{
-#'  \item{variable}(IL6)
-#'  \item{description}(mesurements of IL6 levels)
+#'  \item{variable}{IL6}
+#'  \item{description}{mesurements of IL6 levels}
 #' }
 #'
 #'
